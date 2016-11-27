@@ -1,0 +1,72 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_vm1net1_adminPassword": {
+            "value": null
+        },
+        "virtualMachines_vm2net2_adminPassword": {
+            "value": null
+        },
+        "virtualMachines_vm3net3_adminPassword": {
+            "value": null
+        },
+        "virtualMachines_vm1net1_name": {
+            "value": null
+        },
+        "virtualMachines_vm2net2_name": {
+            "value": null
+        },
+        "virtualMachines_vm3net3_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1net1633_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2net2921_name": {
+            "value": null
+        },
+        "networkInterfaces_vm3net3445_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg1net1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg2net2_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg3net3_name": {
+            "value": null
+        },
+        "publicIPAddresses_gw1net1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm1net1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm2net2_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_gw3net3_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm3net3_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_net1dublin_name": {
+            "value": null
+        },
+        "virtualNetworks_net2dublin_name": {
+            "value": null
+        },
+        "virtualNetworks_net3amsterdam_name": {
+            "value": null
+        },
+        "storageAccounts_exp16stga_name": {
+            "value": null
+        },
+        "storageAccounts_exp16stgb_name": {
+            "value": null
+        }
+    }
+}
